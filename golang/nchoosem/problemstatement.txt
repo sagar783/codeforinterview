@@ -5,3 +5,5 @@ For example, your function should return 6 for n = 4 and k = 2, and it should re
 
 Solution ->
 I have use recursive program here, the main idea is whether a element is there in the selected element or it is not there
+
+This is not efficient solution, It can be solved with memoization and dynamic programming more efficiently
