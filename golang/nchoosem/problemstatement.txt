@@ -11,5 +11,5 @@ We can create an 2d array of n*n and can use memoization to store the value, thi
 
 Solution 3 ->
 
-we can use bottom's up approch, we can use can create pascal's triagle to find the Solution
+we can use bottom's up approch, we  can create pascal's triagle to find the Solution
 
