@@ -3,7 +3,13 @@ The Problem
 Write a function that takes two parameters n and k and returns the value of Binomial Coefficient C(n, k).
 For example, your function should return 6 for n = 4 and k = 2, and it should return 10 for n = 5 and k = 2.
 
-Solution ->
-I have use recursive program here, the main idea is whether a element is there in the selected element or it is not there
+Solution 1 ->
+I have used recursive program here, the main idea is whether a element is there in the selected element or it is not there
 
-This is not efficient solution, It can be solved with memoization and dynamic programming more efficiently
+Solution 2 ->
+We can create an 2d array of n*n and can use memoization to store the value, this would be an top down approch
+
+Solution 3 ->
+
+we can use bottom's up approch, we can use can create pascal's triagle to find the Solution
+
